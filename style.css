@@ -1,0 +1,62 @@
+body {
+    background-color: beige;
+}
+
+
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    padding-top: 20px;
+    display: block;
+
+}
+
+h5 {
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+    margin: 20px auto;
+
+}
+
+a {
+    display: block;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h3,
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+    background-color: brown;
+    color: white;
+    padding: 5px 20px;
+
+}
+
+.footer {
+    font-size: 25px;
+   background-color: white;
+   padding: 10px;
+}
+
+.header {
+    background-color: white;
+    display: block;
+    padding: 20px;
+    
+}
